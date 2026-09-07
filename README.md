@@ -20,13 +20,15 @@ This is the blank board you will see when you first run the code.
 
 ### Playing
 
-Clicking the refresh button will refresh the receipt. Refreshing the receipt generates a new random receipt.
+Both players take turns making their moves.
 
-![Screenshot 2](Screenshot%202026-09-07%20150550.png)
+Turn: X
 
-Here is another randomly generated receipt: 
+![Screenshot 2](Screenshot%202026-09-07%20154938.png)
 
-![Screenshot 3](Screenshot%202026-09-07%20150555.png)
+Turn: O
+
+![Screenshot 3](Screenshot%202026-09-07%20154942.png)
 
 ## Created With
 
