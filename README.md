@@ -36,6 +36,12 @@ When a game ends the board and scoreboard refresh and there can be infinite rema
 
 ![Screenshot_4](Screenshot%202026-09-07%20155000.png)
 
+### Scoreboard
+
+Since there can be infinite rematches the scoreboard must always update and always be accurate because with rematches even tic-tac-toe could get competitive. That's why we have a scoreboard. This screenshot shows the scoreboard a few matches later.
+
+![Screenshot_5](Screenshot%202026-09-07%20155022.png)
+
 ## Created With
 
 - https://www.onlinegdb.com/online_python_compiler#
