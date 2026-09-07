@@ -30,6 +30,12 @@ Turn: O
 
 ![Screenshot 3](Screenshot%202026-09-07%20154942.png)
 
+### Game Repeat
+
+When a game ends the board and scoreboard refresh and there can be infinite rematches.
+
+![Screenshot_4](Screenshot%202026-09-07%20155000.png)
+
 ## Created With
 
 - https://www.onlinegdb.com/online_python_compiler#
